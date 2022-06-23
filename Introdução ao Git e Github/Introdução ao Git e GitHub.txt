@@ -6,3 +6,7 @@ Git - Sistema de distribução seguro
 -SHA1- Geração de código de determinada informação como:
  -GitBash- $openssl sha1 'conteúdo'
 -GitInit- Cria repositório
+-Git status- mostra o status do repositório
+-Git add .
+-Git commit -m "comentário"
+-Git push origin main
