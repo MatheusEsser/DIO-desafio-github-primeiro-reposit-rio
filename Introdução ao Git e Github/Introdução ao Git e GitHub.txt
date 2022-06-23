@@ -1,0 +1,8 @@
+Git - Sistema de distribução seguro
+-Objetos internos do Git
+  -Blobs- Bolhas de Informação/SHA1 dos arquivos
+  -Trees- árvores que apontam para as bolhas com seu SHA1
+  -Commits- Aponta para as árvores
+-SHA1- Geração de código de determinada informação como:
+ -GitBash- $openssl sha1 'conteúdo'
+-GitInit- Cria repositório
